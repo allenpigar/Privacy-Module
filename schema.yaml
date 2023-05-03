@@ -4,7 +4,7 @@
   sort: 1
   listed: true
   hasRoute: true
-  showAsTable: true
+  showAsTable: false
   parent: null
   fields:
     - name: "sub_text"
